@@ -1,0 +1,40 @@
+.login-container {
+    border: 2px solid rgba(171, 171, 171, 1);
+    padding: 37px 55px;
+    border-radius: 4px;
+    width: 35%;
+    font-family: Montserrat;
+}
+
+.login-title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+.input-fields input {
+    margin-bottom: 62px;
+    border: none;
+    border-radius: 0;
+    font-size: larger;
+    font-weight: 600;
+
+}
+
+.login-with-1 {
+    border: 2px solid rgb(212, 202, 202);
+    border-radius: 10px;
+    padding: 10px 120px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.login-with-2 {
+    border: 2px solid rgb(212, 202, 202);
+    border-radius: 10px;
+    padding: 10px 129px;
+    font-size: 16px;
+    font-weight: 500;
+}
